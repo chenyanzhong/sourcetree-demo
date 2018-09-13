@@ -1,6 +1,6 @@
 // 配置文件
 const isLocal = false;
-const testServer = true;
+const testServer = false;
 
 module.exports = {
   testServer: testServer,
