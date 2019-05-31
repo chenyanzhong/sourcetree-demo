@@ -2,6 +2,8 @@
 
 THIS IS DEV;
 THIS IS MASTER;
+THIE IS FEATURE1;
+
 ```
 HEAD 指向当前所在的分支,回退版本可以通过相关信息修改指向
 
